@@ -50,3 +50,13 @@ Durante o desenvolvimento, pratiquei a criação de fórmulas, organização de 
 ## ⚠️ Observação
 
 Este projeto possui finalidade exclusivamente educacional. Os valores, percentuais e resultados apresentados são utilizados para fins de simulação e estudo e não representam recomendação de investimento.
+
+## 🖼️ Visualização do projeto
+
+### Simulação de Investimentos
+
+![Simulação de Investimentos](simulacao.png)
+
+### Distribuição por Perfil
+
+![Distribuição por Perfil](distribuicao_perfils.png)
