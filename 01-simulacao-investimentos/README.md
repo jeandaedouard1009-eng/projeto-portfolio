@@ -1,79 +1,52 @@
-📊 Simulação de Investimentos no Excel
+# 📊 Simulação de Investimentos no Excel
 
-📌 Sobre o projeto
+## 📌 Sobre o projeto
 
 Este projeto foi desenvolvido para praticar e demonstrar o uso do Excel na criação de uma ferramenta de simulação de investimentos.
 
-A planilha permite definir algumas informações básicas, como salário, percentual destinado aos investimentos, rendimento mensal e período de aplicação. A partir desses dados, são realizados cálculos para visualizar a evolução do investimento ao longo do tempo.
+A planilha permite definir informações como salário, percentual destinado aos investimentos, rendimento mensal e período de aplicação. A partir desses dados, são realizados cálculos para visualizar a evolução do investimento ao longo do tempo.
 
-O projeto também utiliza diferentes perfis de investidor — Conservador, Moderado e Agressivo — para definir diferentes formas de distribuição dos investimentos.
+O projeto também utiliza diferentes perfis de investidor — Conservador, Moderado e Agressivo — para simular diferentes formas de distribuição dos investimentos.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
-O principal objetivo foi colocar em prática conhecimentos de Excel e transformar cálculos e informações financeiras em uma planilha organizada e funcional.
+O objetivo foi colocar em prática conhecimentos de Excel e transformar cálculos e informações financeiras em uma planilha organizada e funcional.
 
-Além de trabalhar com fórmulas, o projeto também foi uma oportunidade para praticar a organização de dados, referências entre planilhas e criação de cenários.
+## ⚙️ Funcionalidades
 
-⚙️ Como funciona
-
-Na planilha Investimento, o usuário pode configurar:
-
-- Salário;
-- Rendimento da carteira;
-- Percentual do salário destinado aos investimentos;
-- Valor do investimento mensal;
-- Período do investimento;
-- Taxa de rendimento mensal;
-- Perfil de investimento.
-
-Com essas informações, a planilha realiza os cálculos necessários para apresentar uma projeção da evolução do patrimônio e dos dividendos.
-
-📊 Perfis de investimento
-
-A planilha Repor contém a estrutura de distribuição dos investimentos para cada perfil:
-
-- Conservador
-- Moderado
-- Agressivo
-
-A distribuição considera diferentes tipos de FIIs:
-
-- PAPEL
-- TIJOLO
-- HÍBRIDOS
-- FOFs
-- DESENVOLVIMENTO
-- HOTELARIAS
-
-Dessa forma, a alteração do perfil pode resultar em uma composição diferente da carteira simulada.
-
-🛠️ Recursos do Excel utilizados
-
-- Fórmulas e funções;
-- Referências entre células e planilhas;
-- Cálculos percentuais;
-- Cálculos de rentabilidade;
 - Simulação de investimentos mensais;
-- Organização de dados;
-- Estruturação de cenários;
-- Tabelas de distribuição percentual.
+- Definição do percentual destinado aos investimentos;
+- Simulação de diferentes períodos de aplicação;
+- Cálculo da evolução do patrimônio;
+- Simulação de dividendos;
+- Distribuição dos investimentos por perfil;
+- Comparação entre diferentes cenários.
 
-📁 Estrutura do arquivo
+## 📊 Perfis de investimento
 
-Projeto_Excel_Investimento.xlsx
-│
-├── Investimento
-│   └── Configurações e simulação dos investimentos
-│
-└── Repor
-    └── Distribuição dos investimentos por perfil e tipo de FII
+A planilha trabalha com três perfis:
 
-📚 O que este projeto representa
+- **Conservador**
+- **Moderado**
+- **Agressivo**
+
+A distribuição considera diferentes tipos de FIIs, permitindo visualizar uma composição diferente de acordo com o perfil selecionado.
+
+## 🛠️ Ferramentas utilizadas
+
+- Microsoft Excel
+- Fórmulas e funções
+- Cálculos percentuais
+- Referências entre planilhas
+- Simulação de cenários
+- Organização e análise de dados
+
+## 📚 Aprendizados
 
 Este projeto faz parte do meu processo de aprendizagem em Excel e análise de dados.
 
-A ideia é continuar evoluindo a partir de projetos práticos, passando gradualmente de planilhas com fórmulas e cálculos para projetos mais completos envolvendo análise de dados, dashboards, Power Query e outras ferramentas.
+Durante o desenvolvimento, pratiquei a criação de fórmulas, organização de informações, cálculos financeiros e estruturação de uma ferramenta para simulação de diferentes cenários.
 
-⚠️ Observação
+## ⚠️ Observação
 
-Este projeto possui finalidade exclusivamente educacional. Os valores, percentuais, rendimentos e resultados apresentados são utilizados para simulação e estudo e não representam recomendação de investimento.
+Este projeto possui finalidade exclusivamente educacional. Os valores, percentuais e resultados apresentados são utilizados para fins de simulação e estudo e não representam recomendação de investimento.
