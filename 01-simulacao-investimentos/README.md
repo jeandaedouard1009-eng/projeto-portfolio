@@ -47,10 +47,6 @@ Este projeto faz parte do meu processo de aprendizagem em Excel e análise de da
 
 Durante o desenvolvimento, pratiquei a criação de fórmulas, organização de informações, cálculos financeiros e estruturação de uma ferramenta para simulação de diferentes cenários.
 
-## ⚠️ Observação
-
-Este projeto possui finalidade exclusivamente educacional. Os valores, percentuais e resultados apresentados são utilizados para fins de simulação e estudo e não representam recomendação de investimento.
-
 ## 🖼️ Visualização do projeto
 
 ### Simulação de Investimentos
@@ -60,3 +56,7 @@ Este projeto possui finalidade exclusivamente educacional. Os valores, percentua
 ### Distribuição por Perfil
 
 ![Distribuição por Perfil](distribuicao_perfils.png)
+
+## ⚠️ Observação
+
+Este projeto possui finalidade exclusivamente educacional. Os valores, percentuais e resultados apresentados são utilizados para fins de simulação e estudo e não representam recomendação de investimento.
