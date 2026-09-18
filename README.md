@@ -1,4 +1,4 @@
-# 👨‍💻 Edou — Portfólio de Projetos
+# 👨‍💻 Jean Dael EDOUARD — Portfólio de Projetos
 
 Bem-vindo ao meu portfólio!
 
