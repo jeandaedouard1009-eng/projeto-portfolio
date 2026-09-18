@@ -14,38 +14,43 @@ O objetivo foi colocar em prática conhecimentos de Excel e transformar cálculo
 
 ## ⚙️ Funcionalidades
 
-- Simulação de investimentos mensais;
-- Definição do percentual destinado aos investimentos;
-- Simulação de diferentes períodos de aplicação;
-- Cálculo da evolução do patrimônio;
-- Simulação de dividendos;
-- Distribuição dos investimentos por perfil;
-- Comparação entre diferentes cenários.
-
-## 📊 Perfis de investimento
-
-A planilha trabalha com três perfis:
-
-- **Conservador**
-- **Moderado**
-- **Agressivo**
-
-A distribuição considera diferentes tipos de FIIs, permitindo visualizar uma composição diferente de acordo com o perfil selecionado.
+- Definição do salário mensal
+- Definição do percentual destinado aos investimentos
+- Cálculo do valor sugerido para investimento mensal
+- Simulação do patrimônio acumulado ao longo do tempo
+- Cálculo de dividendos mensais
+- Simulação de diferentes perfis de investidor
+- Comparação entre os perfis Conservador, Moderado e Agressivo
 
 ## 🛠️ Ferramentas utilizadas
 
 - Microsoft Excel
-- Fórmulas e funções
-- Cálculos percentuais
-- Referências entre planilhas
-- Simulação de cenários
-- Organização e análise de dados
+- Fórmulas e funções do Excel
+- Tabelas e gráficos
+- Formatação condicional
+- Tabela de simulação
+
+## 📚 Conhecimentos praticados
+
+Durante o desenvolvimento deste projeto, foram praticados:
+
+- Organização de informações em planilhas
+- Criação e utilização de fórmulas
+- Cálculos financeiros
+- Análise de diferentes cenários
+- Criação de gráficos
+- Estruturação e apresentação de dados
 
 ## 📚 Aprendizados
 
 Este projeto faz parte do meu processo de aprendizagem em Excel e análise de dados.
 
 Durante o desenvolvimento, pratiquei a criação de fórmulas, organização de informações, cálculos financeiros e estruturação de uma ferramenta para simulação de diferentes cenários.
+
+## 📁 Arquivo do projeto
+
+➡️ [Baixar e abrir a planilha Excel](./simulacao-investimento.xlsx)
+
 
 ## 🖼️ Visualização do projeto
 
