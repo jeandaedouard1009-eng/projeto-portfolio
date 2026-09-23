@@ -56,6 +56,17 @@ O arquivo está dividido nas seguintes planilhas:
 
 ![organizador declaracao ir](Captura_Titular_ODIR.png)
 
+### Informes de Rendimentos Bancarios
+
+![organizador declaracao ir](Captura_Informes_ODIR.png)
+
+### Notas Bancarias ou Extrato de Holerites
+
+![organizador declaracao ir](Captura_Notas_ODIR.png)
+
+### Checklist da Declaracao de Imposto de Renda
+
+![organizador declaracao ir](Captura_Checklist_ODIR.png)
 
 ## ⚠️ Observação
 
