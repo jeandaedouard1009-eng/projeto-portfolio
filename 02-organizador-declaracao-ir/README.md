@@ -53,21 +53,6 @@ O arquivo está dividido nas seguintes planilhas:
 
 🖼️ Visualização do projeto
 
-1. Dados do Titular
-
-![Captura_Titular_ODIR] (Captura_Titular_ODIR.png)
-
-2. Informes de Rendimentos Bancários
-
-![Captura_Informes_ODIR] (Captura_Informes_ODIR.png)
-
-3. Notas Bancárias ou Extrato de Holerites
-
-![Captura_Notas_ODIR] (Captura_Notas_ODIR.png)
-
-4. Checklist da Declaração de Imposto de Renda
-
-![Captura_Checklist_ODIR] (Captura_Checklist_ODIR.png)
 
 ## ⚠️ Observação
 
