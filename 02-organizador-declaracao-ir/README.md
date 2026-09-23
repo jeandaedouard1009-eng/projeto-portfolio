@@ -50,8 +50,11 @@ O arquivo está dividido nas seguintes planilhas:
 
 ➡️ [Baixar e abrir a planilha Excel](./organizador-declaracao-ir.xlsx)
 
+## 🖼️ Visualização do projeto
 
-🖼️ Visualização do projeto
+### Dados do Titular
+
+![organizador declaracao ir](Captura_Titular_ODIR.png)
 
 
 ## ⚠️ Observação
