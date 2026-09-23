@@ -55,19 +55,19 @@ O arquivo está dividido nas seguintes planilhas:
 
 1. Dados do Titular
 
-"Captura Titular ODIR" (Captura_Titular_ODIR.png)
+![Captura_Titular_ODIR] (Captura_Titular_ODIR.png)
 
 2. Informes de Rendimentos Bancários
 
-"Captura Informes ODIR" (Captura_Informes_ODIR.png)
+![Captura_Informes_ODIR] (Captura_Informes_ODIR.png)
 
 3. Notas Bancárias ou Extrato de Holerites
 
-"Captura Notas ODIR" (Captura_Notas_ODIR.png)
+![Captura_Notas_ODIR] (Captura_Notas_ODIR.png)
 
 4. Checklist da Declaração de Imposto de Renda
 
-"Captura Checklist ODIR" (Captura_Checklist_ODIR.png)
+![Captura_Checklist_ODIR] (Captura_Checklist_ODIR.png)
 
 ## ⚠️ Observação
 
