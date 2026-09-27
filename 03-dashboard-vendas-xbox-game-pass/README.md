@@ -80,7 +80,7 @@ Dashboard Vendas XBOX GAME PASS
 
 ![dashboard-vendas-xbox-game-pass](dashboard_completo.png)
 
-## Conclusoes
+## ⚠️ Observação
 
 Projeto desenvolvido para compor meu portfólio de **Excel, Análise de Dados e Business Intelligence**.
 
