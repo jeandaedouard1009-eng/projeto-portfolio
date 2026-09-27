@@ -60,7 +60,6 @@ O projeto utiliza recursos do Excel para:
 | Arquivo | Descrição |
 |---|---|
 | ➡️ [Baixar e abrir a planilha Excel](./Dashboard_Vendas_Xbox_Game_Pass.xlsx) | Arquivo principal do projeto desenvolvido no Excel |
-| `screenshots/` | Capturas de tela do dashboard |
 
 ## 💡 Principais aprendizados
 
@@ -77,7 +76,7 @@ Durante o desenvolvimento deste projeto, foram praticadas habilidades relacionad
 
 ## 📸 Visualizações
 
-As capturas de tela do projeto estão disponíveis na pasta `screenshots/`.
+![dashboard-vendas-xbox-game-pass](dashboard_completo.png)
 
 ## 🚀 Próximos passos
 
