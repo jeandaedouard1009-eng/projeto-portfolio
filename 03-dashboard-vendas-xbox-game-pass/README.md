@@ -59,7 +59,7 @@ O projeto utiliza recursos do Excel para:
 
 | Arquivo | Descrição |
 |---|---|
-| ➡️ [Baixar e abrir a planilha Excel](./Dashboard_Vendas_Xbox_Game_Pass.xlsx) | Arquivo principal do projeto desenvolvido no Excel |
+| ➡️ [Baixar Dashboard Vendas XBOX GAME PASS](./Dashboard_Vendas_Xbox_Game_Pass.xlsx) | Arquivo principal do projeto desenvolvido no Excel |
 
 ## 💡 Principais aprendizados
 
@@ -76,21 +76,11 @@ Durante o desenvolvimento deste projeto, foram praticadas habilidades relacionad
 
 ## 📸 Visualizações
 
+Dashboard Vendas XBOX GAME PASS
+
 ![dashboard-vendas-xbox-game-pass](dashboard_completo.png)
 
-## 🚀 Próximos passos
-
-Como evolução do projeto, podem ser adicionados:
-- novos indicadores;
-- análises mais detalhadas;
-- novos filtros;
-- automação da atualização dos dados;
-- integração com Power Query;
-- versão do dashboard no Power BI.
-
-## 👤 Autor
-
-**Jean Dael Edouard**
+## Conclusoes
 
 Projeto desenvolvido para compor meu portfólio de **Excel, Análise de Dados e Business Intelligence**.
 
